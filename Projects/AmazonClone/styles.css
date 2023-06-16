@@ -1,0 +1,38 @@
+body
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box
+{
+    
+    border: 1px solid rgba(128, 128, 128, 0.363);
+    width: 330px;
+    padding: 12px;
+}
+input{
+    width: 320px;
+    height: 20px;
+    border: 1px solid rgba(128, 128, 128, 0.66);
+    padding: 4px;
+    border-radius: 4px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.cont
+{
+   width: 330px;
+   height: 30px;
+   background-color: #f3d078;
+   border: 1px solid #cf9d1d;
+   border-radius: 3px;
+}
+a
+{
+    text-decoration: none;
+}
+
+
